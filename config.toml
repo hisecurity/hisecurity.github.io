@@ -1,0 +1,12 @@
+languageCode = 'en-us'
+title = 'HiSecurity阅读小组'
+theme = "book"
+
+[params]
+  # (Optional, default light) Sets color theme: light, dark or auto.
+  # Theme 'auto' switches between dark and light modes based on browser/os preferences
+  BookTheme = 'dark'
+
+  # (Optional, default none) Set leaf bundle to render as side menu
+  # When not specified file structure and weights will be used
+  BookMenuBundle = '/menu'
