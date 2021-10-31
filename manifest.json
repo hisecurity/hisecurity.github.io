@@ -1,6 +1,6 @@
 {
-  "name": "HiSecurity阅读小组",
-  "short_name": "HiSecurity阅读小组",
+  "name": "安全领域论文阅读小组",
+  "short_name": "安全领域论文阅读小组",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
