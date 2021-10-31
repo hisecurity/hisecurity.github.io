@@ -12,10 +12,20 @@ type: docs
 ## 活动规则
 ---
 * 暂定一个season为8周，每周进行一次90分钟的分享，包括Q&A
-* 活动正式开始后，每周有两位同学关于一个话题present一些经典/重要/顶会论文。具体论文将由大家根据兴趣选择。
+* 活动正式开始后，每周有两位同学关于一个话题present一些经典/重要/顶会论文。具体论文将由大家根据兴趣选择，presentor可以从pool里面选择感兴趣的
 * 每次活动有一位host主持当天的分享和Q&A讨论
 * 分享和讨论将采用中文，slides语言不限
 * 我们将会采取线上分享的模式，届时我们会直播，录屏，上传，方便大家共同学习
+
+&nbsp;
+
+## 内容&范围
+---
+
+* 根据目前已经在小组中同学的兴趣，我们将至少涵盖的话题有：网络安全，应用/系统安全，ML in Security
+* Season 1的话题讨论将偏向更fundamental或systemized，比如一些[SoK paper](https://oaklandsok.github.io/)，或其他有影响力的paper，比如[list 1](https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_top100.html), [list 2](https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_ntop100.html)。
+* 具体的论文题目和topic在具体以后在[Topic&Paper List]({{< relref "/docs/TopicPaperList" >}})公布
+* **早参与进来的同学还可帮助选取我们的topic范围~**
 
 &nbsp;
 
@@ -36,15 +46,6 @@ type: docs
 
 &nbsp;
 
-## 内容&范围
----
-
-* 根据目前已经在小组中同学的兴趣，我们将至少涵盖的话题有：网络安全，应用/系统安全，ML in Security
-* Season 1的话题讨论将偏向更fundamental或systemized，比如一些[SoK paper](https://oaklandsok.github.io/)，或其他有影响力的paper，比如[list 1](https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_top100.html), [list 2](https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_ntop100.html)。
-* 具体的论文题目和topic在具体以后在[Topic&Paper List]({{< relref "/docs/TopicPaperList" >}})公布
-* **早参与进来的同学还可帮助选取我们的topic范围~**
-
-&nbsp;
 
 ## 期待
 ---
@@ -54,5 +55,6 @@ type: docs
 * 帮助新同学的学习
 * Presenter锻炼如何give a great talk，host锻炼更好的组织一场高质量seminar
 * 第一个season我们建立起一个框架，后续的活动可以视情况深入一些领域的讨论
+* 尝试建立安全领域talk的digital library，提供内容供安全领域的同学学习
 
 &nbsp;
