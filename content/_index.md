@@ -1,5 +1,5 @@
 ---
-title: HiSecurity阅读小组
+title: HiSecurity
 type: docs
 ---
 
