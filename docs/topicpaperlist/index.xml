@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Topic&amp;Paper List on 安全领域论文阅读小组</title>
+    <title>Topic&amp;Paper List on HiSecurity阅读小组</title>
     <link>/docs/topicpaperlist/</link>
-    <description>Recent content in Topic&amp;Paper List on 安全领域论文阅读小组</description>
+    <description>Recent content in Topic&amp;Paper List on HiSecurity阅读小组</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/docs/topicpaperlist/index.xml" rel="self" type="application/rss+xml" />
   </channel>
