@@ -1,5 +1,5 @@
 ---
-title: HiSecurity
+title: Home
 type: docs
 ---
 
