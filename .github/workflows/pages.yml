@@ -3,7 +3,7 @@ name: hugo publish
 on:
   push:
     branches:
-    - main
+    - pg_source
 
 jobs:
   build-deploy:
