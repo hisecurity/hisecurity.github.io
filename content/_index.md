@@ -43,7 +43,7 @@ type: docs
 
 Season 1的话题讨论将偏向更fundamental或systemized，比如一些[SoK paper](https://oaklandsok.github.io/)，或其他有影响力的paper，比如[list 1](https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_top100.html), [list 2](https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_ntop100.html)。
 
-具体的论文题目和topic在具体以后在**Topic&Paper List**公布
+具体的论文题目和topic在具体以后在[Topic&Paper List]({{< relref "/docs/TopicPaperList" >}})公布
 
 **早参与进来的同学还可帮助选取我们的topic范围~**
 
@@ -59,17 +59,3 @@ Season 1的话题讨论将偏向更fundamental或systemized，比如一些[SoK p
 * 第一个season我们建立起一个框架，后续的活动可以视情况深入一些领域的讨论
 
 &nbsp;
-
-## Acknowledgement
----
-
-活动受启发于一个硬核系统研讨会，[LEARNSYS](https://learn-sys.github.io/cn/reading/)
-
-我们的活动内容与形式也区别于一个研讨会[AEGIS](https://aegis-readers.github.io/)
-
-&nbsp;
-
-## Contacts
----
-
-有任何问题或者想和活动发起人说的话可以发邮件给**readinggroup@hisecurity.org**
