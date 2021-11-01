@@ -24,7 +24,7 @@ type: docs
 
 * 根据目前已经在小组中同学的兴趣，我们将至少涵盖的话题有：网络安全，应用/系统安全，ML in Security
 * Season 1的话题讨论将偏向更fundamental或systemized，比如一些[SoK paper](https://oaklandsok.github.io/)，或其他有影响力的paper，比如[list 1](https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_top100.html), [list 2](https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_ntop100.html)。
-* 具体的论文题目和topic在具体以后在[Topic&Paper List]({{< relref "/docs/TopicPaperList" >}})公布
+* 论文题目和topic在具体以后在[Topic&Paper List]({{< relref "/docs/TopicPaperList" >}})公布
 * **早参与进来的同学还可帮助选取我们的topic范围~**
 
 &nbsp;
